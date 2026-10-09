@@ -1,27 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e15a9ac0-5fa1-438e-9d38-fd692719d90b" name="Changes" comment="" />
+    <list default="true" id="4f7e4b88-d58d-4c07-ba71-fb1dc9e899e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
-  <component name="ProjectId" id="2nGkwvzLi1fPx1Jo6dlETS60PJT" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2m7XrDCszUQSh57Vr7cUI5Bpf7j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Baseline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Corpus_Analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linear_Regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Majority.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Trained.executor&quot;: &quot;Run&quot;,
+    &quot;Python.annotator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.normalize_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wangj500_part_I.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wangj500_part_II.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -33,13 +60,48 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e15a9ac0-5fa1-438e-9d38-fd692719d90b" name="Changes" comment="" />
-      <created>1728607042436</created>
+      <changelist id="4f7e4b88-d58d-4c07-ba71-fb1dc9e899e6" name="Changes" comment="" />
+      <created>1726428785274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728607042436</updated>
-      <workItem from="1728607043737" duration="24000" />
+      <updated>1726428785274</updated>
+      <workItem from="1726428787735" duration="236000" />
+      <workItem from="1726955392933" duration="16215000" />
+      <workItem from="1737336917486" duration="1799000" />
+      <workItem from="1737338752815" duration="7577000" />
+      <workItem from="1738721668750" duration="1077000" />
+      <workItem from="1738722777464" duration="8996000" />
+      <workItem from="1740628871367" duration="2167000" />
+      <workItem from="1741032627477" duration="2113000" />
+      <workItem from="1741050730680" duration="12000" />
+      <workItem from="1742403279062" duration="6586000" />
+      <workItem from="1742412543365" duration="3106000" />
+      <workItem from="1742415745430" duration="15000" />
+      <workItem from="1742416792713" duration="887000" />
+      <workItem from="1743561073989" duration="137000" />
+      <workItem from="1743561275669" duration="18000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$wangj500_part_I.coverage" NAME="wangj500_part_I Coverage Results" MODIFIED="1726428971947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Random.coverage" NAME="Random Coverage Results" MODIFIED="1742407434498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wangj500_part_I_py$wangj500_part_II.coverage" NAME="wangj500_part_II Coverage Results" MODIFIED="1726971524676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/normalize_text_py$normalize_text.coverage" NAME="normalize_text Coverage Results" MODIFIED="1738730959296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wangj500_part_I_py$wangj500_part_I.coverage" NAME="wangj500_part_I Coverage Results" MODIFIED="1726971506272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/normalize_text_py$Corpus_Analysis.coverage" NAME="Corpus_Analysis Coverage Results" MODIFIED="1738731847526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/annotator_py$annotator.coverage" NAME="annotator Coverage Results" MODIFIED="1740628943007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Simple_py$Simple.coverage" NAME="Simple Coverage Results" MODIFIED="1742417316342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Simple_py$Trained.coverage" NAME="Trained Coverage Results" MODIFIED="1742417604248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Corpus_Analysis.coverage" NAME="Corpus_Analysis Coverage Results" MODIFIED="1741050568156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Simple.coverage" NAME="Simple Coverage Results" MODIFIED="1742408062057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Assignment1_py$Assignment1.coverage" NAME="Assignment1 Coverage Results" MODIFIED="1737347374150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Trained.coverage" NAME="Trained Coverage Results" MODIFIED="1742408105784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Majority.coverage" NAME="Majority Coverage Results" MODIFIED="1742407387879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/wangj500_part_I_py$Linear_Regression.coverage" NAME="Linear_Regression Coverage Results" MODIFIED="1726968943122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/Corpus_Analysis_py$Baseline.coverage" NAME="Baseline Coverage Results" MODIFIED="1742406987324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
