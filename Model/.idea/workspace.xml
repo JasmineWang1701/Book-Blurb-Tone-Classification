@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -25,30 +28,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Assignment1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Baseline.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Corpus_Analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Linear_Regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Majority.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Simple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Trained.executor&quot;: &quot;Run&quot;,
-    &quot;Python.annotator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.normalize_text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wangj500_part_I.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wangj500_part_II.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Assignment1.executor": "Run",
+    "Python.Baseline.executor": "Run",
+    "Python.Corpus_Analysis.executor": "Run",
+    "Python.Linear_Regression.executor": "Run",
+    "Python.Majority.executor": "Run",
+    "Python.Random.executor": "Run",
+    "Python.Simple.executor": "Run",
+    "Python.Trained.executor": "Run",
+    "Python.annotator.executor": "Run",
+    "Python.normalize_text.executor": "Run",
+    "Python.wangj500_part_I.executor": "Run",
+    "Python.wangj500_part_II.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +84,7 @@
       <workItem from="1742416792713" duration="887000" />
       <workItem from="1743561073989" duration="137000" />
       <workItem from="1743561275669" duration="18000" />
+      <workItem from="1791507559762" duration="36000" />
     </task>
     <servers />
   </component>
